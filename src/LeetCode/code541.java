@@ -6,6 +6,7 @@ package LeetCode;
  * @author: 占翔昊
  * @create 2021-08-20 09:03
  **/
+public class code541 {
 class Solution {
     public String reverseStr(String s, int k) {
         char[] arr = s.toCharArray();
@@ -33,4 +34,5 @@ class Solution {
         arr[i] = arr[j];
         arr[j] = tmp;
     }
+}
 }
