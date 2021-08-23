@@ -7,7 +7,7 @@ package LeetCode;
  * @create 2021-08-20 09:03
  **/
 public class code541 {
-class Solution {
+static class Solution {
     public String reverseStr(String s, int k) {
         char[] arr = s.toCharArray();
         int i = 0;

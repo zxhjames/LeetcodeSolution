@@ -39,4 +39,10 @@ public class code443 {
             return newlen;
         }
     }
+
+    public static void main(String[] args) {
+        int a  = 10;
+        char c = String.valueOf(a).charAt(1);
+        System.out.println(c);
+    }
 }
