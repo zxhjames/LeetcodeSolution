@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @program: fuck!Leetcode
- * @description:
+ * @description: 1646. 获取生成数组中的最大值
  * @author: 占翔昊
  * @create 2021-08-23 08:54
  **/
